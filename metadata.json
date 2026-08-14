@@ -1,0 +1,6 @@
+{
+  "name": "Fast Easy Downloader",
+  "description": "Fast and light media downloader hub with quick access to ssstik.io, fdown.net, savefrom.net, y2mate.com, in-app browser, active download manager, and downloaded files organizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
